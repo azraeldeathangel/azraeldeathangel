@@ -1,5 +1,7 @@
 ```c
 #include <skibidi.h>
+#include <sigma.h>
+#include <gyat.h>
 
 int whoami(void)
 {
