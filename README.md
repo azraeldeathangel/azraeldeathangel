@@ -8,7 +8,7 @@ int whoami(void)
     char name[] = "neswin"
     char username[] = "@azraeldeathangel"
     char identity[] = "Offensive Security Researcher";
-    char interest[] = "Adversary Simulation, Malware Development, Reverse Engineering";
+    char interest[] = "Adversary Simulation, Malware Development/Analysis, Reverse Engineering";
 
     return 1337;
 }
