@@ -7,6 +7,7 @@ int whoami(void)
 {
     char name[] = "neswin"
     char username[] = "@azraeldeathangel"
+    char languages[] = "C, Python";
     char interest[] = "adversary simulation, malware development/analysis, vulnerability research, reverse engineering";
     char certifications[] = "cpts, htb prolabs: dante, zephyr";
 
