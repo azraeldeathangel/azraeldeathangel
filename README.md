@@ -6,7 +6,7 @@
 int whoami(void)
 {
     char languages[] = "C, Go, Python";
-    char interest[] = "adversary simulation, malware development/analysis, vulnerability research, reverse engineering";
+    char interest[] = "malware development, active directory, vulnerability research, reverse engineering";
     char certifications[] = "cpts, htb prolabs: dante, zephyr";
 
     return 1337;
